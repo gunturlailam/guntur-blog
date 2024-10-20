@@ -1,0 +1,4 @@
+plan blog,terdapat:
+-Pengalaman
+-kisah
+-motivasi
