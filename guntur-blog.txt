@@ -2,3 +2,4 @@ Guntur Blog
 -Home
 -About
 -Isi nya
+-Contact
